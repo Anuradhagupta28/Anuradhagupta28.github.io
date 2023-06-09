@@ -66,7 +66,7 @@ document.getElementById("resume-button-1").onclick = () => {
 }
 
 // document.getElementById("resume-button-2").onclick = () => {
-//     location.assign("https://drive.google.com/file/d/1Q8h7n7NZzntb8nKXSRGrFnjtI7HxaKXs/view?usp=share_link");
+//     location.assign("https://drive.google.com/file/d/1OqQ5ULkJJmpJOK3yQTgzRysDmU3YEpwc/view?usp=drive_link");
 // }
 
 ///
