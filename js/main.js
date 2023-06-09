@@ -65,9 +65,9 @@ document.getElementById("resume-button-1").onclick = () => {
     window.open("https://drive.google.com/file/d/1OqQ5ULkJJmpJOK3yQTgzRysDmU3YEpwc/view?usp=drive_link");
 }
 
-// document.getElementById("resume-button-2").onclick = () => {
-//     location.assign("https://drive.google.com/file/d/1OqQ5ULkJJmpJOK3yQTgzRysDmU3YEpwc/view?usp=drive_link");
-// }
+document.getElementById("resume-button-2").onclick = () => {
+    window.open("https://drive.google.com/file/d/1OqQ5ULkJJmpJOK3yQTgzRysDmU3YEpwc/view?usp=drive_link");
+}
 
 ///
 ScrollReveal().reveal('.home-content, .heading', { origin: 'top' });
