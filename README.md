@@ -1,4 +1,3 @@
-# Anuradhagupta28.github.io
 # Portfolio
 
 This is my portfolio, where you can see all my projects skills . 
