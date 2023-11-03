@@ -115,6 +115,7 @@ img {
     font-size: clamp(26px,5vw,var(--large-font));
     color: var(--grey-dark);
     margin-left: 10px;
+    margin-bottom: 30px;
     font-weight: 700;
 }
 
